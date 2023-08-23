@@ -35,6 +35,14 @@ nav .container {
   justify-content: space-between;
 }
 
+nav ul {
+  display: flex;
+}
+
+nav li {
+  margin-left: 20px;
+}
+
 .logo {
   font-size: 24px;
   font-weight: 900;
