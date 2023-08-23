@@ -111,9 +111,16 @@ h2 {
 .boxes {
   display: flex;
   border: 2px dotted red;
+  justify-content: space-between;
+  gap: 24px;
 }
 
 .boxes .square {
   border: 3px solid #3882f6;
   border-radius: 10%;
+}
+
+.box {
+  flex: 1;
+  
 }
