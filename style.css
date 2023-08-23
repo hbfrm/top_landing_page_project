@@ -180,3 +180,12 @@ h2.information {
   font-size: 24px;
 }
 
+.sign-up-call {
+  font-size: 18px;
+  padding: 6px 36px;
+  margin: auto 0;
+  border-radius: 8px;
+  background-color: #3882f6;
+  color: #f9faf8;
+  border: 2px solid #f9faf8;
+}
