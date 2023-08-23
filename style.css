@@ -55,3 +55,7 @@ nav a {
   text-decoration: none;
   color: #e5e7eb;
 }
+
+header .container {
+  display: flex;
+}
