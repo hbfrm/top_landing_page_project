@@ -137,3 +137,10 @@ h2.information {
 .text {
   text-align: center;
 }
+
+.quote-section {
+  background-color: #e5e7eb;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 36px;
+}
