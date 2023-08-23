@@ -146,13 +146,17 @@ h2.information {
   border: 3px dotted blue;
 }
 
-section .container {
+.quote-section .container {
+  display: flex;
+  justify-content: center;
   border: 3px dotted rgb(6, 255, 243);
 }
 
 .sentence {
   display: flex;
   flex-direction: column;
+  max-width: 700px;
+  border: 3px dotted purple;
 }
 
 .sentence .author {
