@@ -149,3 +149,9 @@ h2.information {
 section .container {
   border: 3px dotted rgb(6, 255, 243);
 }
+
+.sentence {
+  display: flex;
+  flex-direction: column;
+}
+
