@@ -93,6 +93,10 @@ header .sign-up {
   margin-top: 16px;
 }
 
+header .sign-up:hover {
+  background-color: #3881f6cc;
+}
+
 section {
   padding: 48px 0;
   margin-bottom: 56px;
