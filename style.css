@@ -99,7 +99,7 @@ header .sign-up:hover {
 
 section {
   padding: 40px 0;
-  margin-bottom: 48px;
+  margin-bottom: 64px;
 }
 
 .info .container {
@@ -146,7 +146,7 @@ h2.information {
 .quote-section .container {
   display: flex;
   justify-content: center;
-  padding: 50px 0;
+  padding: 58px 0;
 }
 
 .sentence {
@@ -169,7 +169,7 @@ h2.information {
   max-width: 1040px;
   display: flex;
   justify-content: space-evenly;
-  padding: 48px 0;
+  padding: 40px 0;
   border: 1px solid #3882f6;
   border-radius: 8px;
   color: #f9faf8;
