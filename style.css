@@ -95,6 +95,10 @@ header .sign-up {
   margin-top: 16px;
 }
 
+section {
+  padding: 24px 0;
+}
+
 section.info {
   border: 3px dotted pink;
 }
@@ -104,7 +108,6 @@ section.info {
   flex-direction: column;
   align-items: center;
   border: 2px dotted #000;
-  
 }
 
 h2.information {
@@ -118,7 +121,8 @@ h2.information {
   border: 2px dotted red;
   justify-content: space-between;
   gap: 48px;
-  margin: 16px
+  margin: 16px;
+  width: 750px;
 }
 
 .boxes .square {
@@ -127,7 +131,6 @@ h2.information {
 }
 
 .box {
-  flex: 1;
   
 }
 
