@@ -61,7 +61,7 @@ nav a {
 header .container {
   display: flex;
   align-items: center;
-  margin: 72px auto;
+  margin: 96px auto;
   justify-content: space-between;
   gap: 48px;
 }
@@ -94,7 +94,8 @@ header .sign-up {
 }
 
 section {
-  padding: 24px 0;
+  padding: 48px 0;
+  margin-bottom: 48px;
 }
 
 .info .container {
@@ -140,14 +141,14 @@ h2.information {
 .quote-section .container {
   display: flex;
   justify-content: center;
-  padding: 48px 0;
+  padding: 96px 0;
 }
 
 .sentence {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  max-width: 700px;
+  max-width: 800px;
 }
 
 .sentence .author {
