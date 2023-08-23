@@ -150,6 +150,7 @@ h2.information {
   display: flex;
   justify-content: center;
   border: 3px dotted rgb(6, 255, 243);
+  padding: 48px 0;
 }
 
 .sentence {
@@ -164,4 +165,5 @@ h2.information {
   font-weight: bold;
   font-size: 24px;
   align-self: end;
+  padding-right: 48px;
 }
