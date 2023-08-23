@@ -122,7 +122,7 @@ h2.information {
   justify-content: space-between;
   gap: 48px;
   margin: 16px;
-  width: 750px;
+  max-width: 750px;
 }
 
 .boxes .square {
@@ -131,7 +131,7 @@ h2.information {
 }
 
 .box {
-  
+  flex: 1;
 }
 
 .text {
