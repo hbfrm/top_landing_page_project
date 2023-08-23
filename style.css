@@ -17,6 +17,15 @@ footer {
   color: #e5e7eb;
 }
 
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+}
+
 nav .container {
   display: flex;
 }
@@ -30,3 +39,5 @@ nav .container {
 nav a {
   text-decoration: none;
 }
+
+nav ul
