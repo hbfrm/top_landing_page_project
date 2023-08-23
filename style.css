@@ -163,3 +163,14 @@ h2.information {
   align-self: end;
   padding-right: 48px;
 }
+
+.call-section .container {
+  background-color: #3882f6;
+  max-width: 1040px;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 48px 0;
+  border: 1px solid #3882f6;
+  border-radius: 8px;
+  color: #f9faf8;
+}
