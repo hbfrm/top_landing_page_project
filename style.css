@@ -26,6 +26,10 @@ img {
   max-width: 100%;
 }
 
+ul {
+  list-style-type: none;
+}
+
 nav .container {
   display: flex;
 }
@@ -39,5 +43,3 @@ nav .container {
 nav a {
   text-decoration: none;
 }
-
-nav ul
