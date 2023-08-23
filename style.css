@@ -174,3 +174,9 @@ h2.information {
   border-radius: 8px;
   color: #f9faf8;
 }
+
+.call-header {
+  font-weight: bold;
+  font-size: 24px;
+}
+
