@@ -27,3 +27,6 @@ nav .container {
   color: #f9faf8;
 }
 
+nav a {
+  text-decoration: none;
+}
