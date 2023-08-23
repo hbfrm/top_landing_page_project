@@ -59,11 +59,20 @@ nav a {
 
 header .container {
   display: flex;
+  align-items: center;
 }
 
 h1 {
   font-size: 48px;
   line-height: 1.2;
-  font-weight: 900;
+  font-weight: 800;
   color: #f9faf8;
+}
+
+header .sign-up {
+  padding: 6px 24px;
+  border-radius: 8px;
+  background-color: #3882f6;
+  color: #f9faf8;
+  border-style: none;
 }
