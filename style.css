@@ -60,6 +60,16 @@ nav a {
 header .container {
   display: flex;
   align-items: center;
+  margin: 72px auto;
+  justify-content: space-between;
+}
+
+.hero {
+  flex: 1;
+}
+
+.hero-img {
+  flex: 1;
 }
 
 h1 {
@@ -75,4 +85,6 @@ header .sign-up {
   background-color: #3882f6;
   color: #f9faf8;
   border-style: none;
+  font-size: 18px;
+  margin: 8px 0;
 }
