@@ -37,6 +37,7 @@ nav .container {
 
 nav ul {
   display: flex;
+  align-items: center;
 }
 
 nav li {
