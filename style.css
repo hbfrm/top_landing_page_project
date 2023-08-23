@@ -94,7 +94,7 @@ header .sign-up {
 }
 
 header .sign-up:hover {
-  background-color: #3881f6cc;
+  background-color: #2964c4;
 }
 
 section {
@@ -188,4 +188,8 @@ h2.information {
   background-color: #3882f6;
   color: #f9faf8;
   border: 2px solid #f9faf8;
+}
+
+.sign-up-call:hover {
+  background-color: #2964c4;
 }
