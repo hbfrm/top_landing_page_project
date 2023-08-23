@@ -60,3 +60,10 @@ nav a {
 header .container {
   display: flex;
 }
+
+h1 {
+  font-size: 48px;
+  line-height: 1.2;
+  font-weight: 900;
+  color: #f9faf8;
+}
