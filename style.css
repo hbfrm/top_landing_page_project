@@ -193,3 +193,10 @@ h2.information {
 .sign-up-call:hover {
   background-color: #2964c4;
 }
+
+footer>.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+}
